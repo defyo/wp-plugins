@@ -6,7 +6,7 @@
     Description: Plugin to add woocommerce search bars with different style options
     Author: ssdserver9
     Author URI: https://ssdserver9.com/
-    Version: 1.0.0
+    Version: 1.0.1
     Text Domain: black-pro-search
  	Domain Path: /i18n/
 	License: GPLv2 or later
