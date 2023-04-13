@@ -60,5 +60,5 @@ function bps_plugin_style()
 
 add_action("wp_enqueue_scripts", "bps_plugin_style", 9999);
 
-wp_enqueue_style( 'bsp-googlefonts', 'https://fonts.googleapis.com/css?family=Nunito', array(), null );
-wp_enqueue_style( 'bsp-fa-fa', 'https://use.fontawesome.com/releases/v5.5.0/css/all.css', array(), null );
+wp_enqueue_style( 'bps-googlefonts', 'https://fonts.googleapis.com/css?family=Nunito', array(), null );
+wp_enqueue_style( 'bps-fa-fa', 'https://use.fontawesome.com/releases/v5.5.0/css/all.css', array(), null );

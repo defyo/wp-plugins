@@ -27,14 +27,14 @@ Note : This plugin requires woocommerce to work
 
 == How to use ==
 
-Move to the plugin admin page named "Black Search Pro" and copy the shortcode of the Search Bar style you prefer and paste in at the desired location.
+Move to the plugin admin page named "Black Pro Search" and copy the shortcode of the Search Bar style you prefer and paste in at the desired location.
 
 == Frequently Asked Questions ==
 
 1.How to use the plugin?
 It is just an simple process. Install the plugin from the repository, or upload it from your file manager. Then activate the plugin and move to the plugin admin page and copy the shortcode of the Search Bar style you prefer and paste in at the desired location.
 
-2.Is lack Search Pro Free?
+2.Is Black Pro Search Free?
 Yes Black Pro Search is free to use and you can download from this site as well as the wordpress repository.
 
 3.Will Black Pro Search get new features in future?

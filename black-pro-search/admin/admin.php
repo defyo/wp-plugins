@@ -6,9 +6,9 @@ function bps_plugin_setup_menu()
 {
     add_menu_page(
         "Black Pro Search",
-        "Black Search Pro",
+        "Black Pro Search",
         "manage_options",
-        "black-search-pro",
+        "black-pro-search",
         "bps_init",
         "dashicons-search"
     );
@@ -20,7 +20,7 @@ function bps_init()
     $user_display_name = $user->display_name;
     echo "<center><br><h1 class='sc_table_head'>Howdy, " .
         $user_display_name .
-        "! - Thank you for using Black Search Pro</h1><br>
+        "! - Thank you for using Black Pro Search</h1><br>
 		<img src='https://ssdserver9.com/wp-content/uploads/2023/01/1674283939373.png' style='width:150px;'><br>
 	<a href='https://ssdserver9.com/plugins/black-search-pro'><button class='sc_table_head_btn'>Visit Plugin Site</button></a></center>";
     $bps_search_one = plugins_url("/images/bps_search_one.jpg", __FILE__);
