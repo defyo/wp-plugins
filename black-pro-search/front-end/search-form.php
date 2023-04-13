@@ -4,7 +4,7 @@ if (!defined("ABSPATH")) {
     exit(); // Exit if accessed directly.
 }
 
-register_activation_hook(BLACK_PRO_SEARCH_BASE, "woo_search_pro_forms");
+register_activation_hook(BLACK_PRO_SEARCH_BASE, "prop_search_forms");
 
 add_action("wp_enqueue_scripts", "bps_plugin_style");
 
