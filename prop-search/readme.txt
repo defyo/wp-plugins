@@ -22,7 +22,7 @@ Twitter : https://twitter.com/ssdserver9
 
 == Installation ==
 
-Install the plugin from the repository, or upload it from your file manager. then activate it from the plugins panel of your wordpress dashboard. 
+Install the plugin from the wordpress plugin directory or upload your site's plugin directory, then activate the plugin from the wp plugin's panel.
 
 == How to use ==
 
