@@ -10,7 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Contact info ==
 
-Website : https://ssdserver9.com/plugins/black-pro-search
+Website : https://ssdserver9.com/plugins/prop-search
 Mail to : info@ssdserver9.com
 WhatsApp : +94 57 3131 502
 
